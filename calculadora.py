@@ -1,7 +1,3 @@
-stadísticamente
-
-Cómo programar una Calculadora en Python
-En la lección de hoy, vamos a ver el código para programar nuestra primera calculadora sencilla en Python. Esta calculadora sencilla, nos va a permitir realizar 3 tareas básicas: sumar, restar o multiplicar; para dos números cualquiera recibidos como input.
 
 n1 = float(input("Introduce un número: ") )
 n2 = float(input("Introduce otro número: ") )
